@@ -16,4 +16,4 @@ hello git huangzufa!
 hello git huangzufa!
 hello git huangzufa!
 hello git huangzufa! master test
-hello git huangzufa!
+hello git huangzufa! hot-fix test
